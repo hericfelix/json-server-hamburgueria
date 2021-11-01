@@ -4,56 +4,56 @@
     {
       "name": "Hamburguer",
       "category": "Sanduíches",
-      "Price": 14,
+      "price": 14,
       "id": 1,
       "img": "https://www.imagensempng.com.br/wp-content/uploads/2021/06/X-burguer-Png.png"
     },
     {
       "name": "X-burguer",
       "category": "Sanduíches",
-      "Price": 16,
+      "price": 16,
       "id": 2,
       "img": "https://e7.pngegg.com/pngimages/612/278/png-clipart-hamburger-cheeseburger-french-fries-pizza-bob-s-pizza.png"
     },
     {
       "name": "Big Kenzie",
       "category": "Sanduíches",
-      "Price": 18,
+      "price": 18,
       "id": 3,
       "img": "https://e7.pngegg.com/pngimages/936/187/png-clipart-hamburger-hamburger-food.png"
     },
     {
       "name": "Combo Kenzie",
       "category": "Combos",
-      "Price": 26,
+      "price": 26,
       "id": 4,
       "img": "https://w7.pngwing.com/pngs/765/174/png-transparent-hamburger-veggie-burger-chicken-sandwich-kfc-french-fries-burger-king-food-recipe-fast-food-restaurant.png"
     },
     {
       "name": "Fanta Guarana",
       "category": "Bebidas",
-      "Price": 5,
+      "price": 5,
       "id": 5,
       "img": "https://i.pinimg.com/originals/19/4b/27/194b275d22c5444d679861ec1beeeb1c.png"
     },
     {
       "name": "Coca-cola",
       "category": "Bebidas",
-      "Price": 7,
+      "price": 7,
       "id": 6,
       "img": "https://www.designi.com.br/images/preview/10025261.jpg"
     },
     {
       "name": "Milkshake Ovomaltine",
       "category": "Sobremesas",
-      "Price": 10,
+      "price": 10,
       "id": 7,
       "img": "https://w7.pngwing.com/pngs/59/617/png-transparent-milkshake-drink-takeout-tea-thumbnail.png"
     },
     {
       "name": "Sundae",
       "category": "Sobremesas",
-      "Price": 10,
+      "price": 10,
       "id": 8,
       "img": "https://w7.pngwing.com/pngs/670/980/png-transparent-chocolate-ice-cream-ice-cream-cones-milkshake-sundae-ovaltine-sundae-food-frozen-dessert-parfait.png"
     }
