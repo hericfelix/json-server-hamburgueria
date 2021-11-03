@@ -6,14 +6,14 @@
       "category": "Sanduíches",
       "price": 14,
       "id": 1,
-      "img": "https://www.imagensempng.com.br/wp-content/uploads/2021/06/X-burguer-Png.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/public/assets/images/hamburguer.png"
     },
     {
       "name": "X-burguer",
       "category": "Sanduíches",
       "price": 16,
       "id": 2,
-      "img": "https://e7.pngegg.com/pngimages/612/278/png-clipart-hamburger-cheeseburger-french-fries-pizza-bob-s-pizza.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/public/assets/images/x-burguer.png"
     },
     {
       "name": "Big Kenzie",

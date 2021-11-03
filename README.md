@@ -20,6 +20,7 @@ Endpoint de cadastro de novos usuários. A requisição deverá ser feita com o 
 
 ```json
 {
+  "name": "Heric Felix",
   "email": "teste@teste.com",
   "password": "teste123"
 }
@@ -33,6 +34,7 @@ Caso tudo dê certo a resposta será assim:
 {
   "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9saXZpZXJAbWFpbC5jb20iLCJpYXQiOjE2MzUxODUwMjgsImV4cCI6MTYzNTE4ODYyOCwic3ViIjoiMyJ9.OOGgjbYHjAQ1AliVW39IY9_s4HpdxOlt4hEojm_fXYA",
   "user": {
+    "name": "Heric Felix",
     "email": "teste@teste.com",
     "id": 3
   }
@@ -152,7 +154,8 @@ Conseguimos realizar a adição de produtos selecionados pelo usuário no carrin
   "name": "Big Kenzie",
   "category": "Sanduíches",
   "price": 18,
-  "userId": 3
+  "userId": 3,
+  "amount": 1
 }
 ```
 
@@ -162,7 +165,7 @@ Conseguimos realizar a adição de produtos selecionados pelo usuário no carrin
 
 `get /cart`
 
-Com esse endpoint podemos verificar todos os livros já lidos pelos usuários.
+Com esse endpoint podemos verificar todos produtos nos carrinhos dos usuários.
 
 `get /cart - STATUS 200`
 
@@ -173,7 +176,8 @@ Com esse endpoint podemos verificar todos os livros já lidos pelos usuários.
     "category": "Sanduíches",
     "price": 18,
     "userId": 3,
-    "id": 1
+    "id": 1,
+    "amount": 1
   }
 ]
 ```
