@@ -6,56 +6,56 @@
       "category": "Sanduíches",
       "price": 14,
       "id": 1,
-      "img": "https://json-server-hamburgueria-hf.herokuapp.com/public/assets/images/hamburguer.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/hamburguer.png"
     },
     {
       "name": "X-burguer",
       "category": "Sanduíches",
       "price": 16,
       "id": 2,
-      "img": "https://json-server-hamburgueria-hf.herokuapp.com/public/assets/images/x-burguer.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/x-burguer.png"
     },
     {
       "name": "Big Kenzie",
       "category": "Sanduíches",
       "price": 18,
       "id": 3,
-      "img": "https://e7.pngegg.com/pngimages/936/187/png-clipart-hamburger-hamburger-food.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/big-kenzie.png"
     },
     {
       "name": "Combo Kenzie",
       "category": "Combos",
       "price": 26,
       "id": 4,
-      "img": "https://w7.pngwing.com/pngs/765/174/png-transparent-hamburger-veggie-burger-chicken-sandwich-kfc-french-fries-burger-king-food-recipe-fast-food-restaurant.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/combo.png"
     },
     {
       "name": "Fanta Guarana",
       "category": "Bebidas",
       "price": 5,
       "id": 5,
-      "img": "https://i.pinimg.com/originals/19/4b/27/194b275d22c5444d679861ec1beeeb1c.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/fanta.png"
     },
     {
       "name": "Coca-cola",
       "category": "Bebidas",
       "price": 7,
       "id": 6,
-      "img": "https://www.designi.com.br/images/preview/10025261.jpg"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/coca.png"
     },
     {
       "name": "Milkshake Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
       "id": 7,
-      "img": "https://w7.pngwing.com/pngs/59/617/png-transparent-milkshake-drink-takeout-tea-thumbnail.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/milkshake.png"
     },
     {
       "name": "Sundae",
       "category": "Sobremesas",
       "price": 10,
       "id": 8,
-      "img": "https://w7.pngwing.com/pngs/670/980/png-transparent-chocolate-ice-cream-ice-cream-cones-milkshake-sundae-ovaltine-sundae-food-frozen-dessert-parfait.png"
+      "img": "https://json-server-hamburgueria-hf.herokuapp.com/assets/images/sundae.png"
     }
   ],
   "cart": []

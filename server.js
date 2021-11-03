@@ -6,6 +6,8 @@ const port = process.env.PORT || 3001;
 const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 
+app.use(jsonServer.defaults(["./public"]));
+
 app.db = router.db;
 
 const rules = auth.rewriter({
